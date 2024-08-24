@@ -1,0 +1,21 @@
+.text {
+    color: blue;
+    height: fit-content;
+    padding-bottom: 13px;
+    font-size: 20px;
+}
+.text nav ul li a {
+    border: 6px solid black;
+    border-radius: 6px;
+    position: absolute;
+    background-color: black;
+    color: white;
+}
+main h1 {
+    background-color: #ddd;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 6px;
+}
